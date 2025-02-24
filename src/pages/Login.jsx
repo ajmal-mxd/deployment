@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 
 
 
-function login() {
+function Login() {
   return (
     <div>l
       <h1>login</h1>
@@ -14,4 +14,4 @@ function login() {
   )
 }
 
-export default login
+export default Login

@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 
-function about() {
+function About() {
   return (
     <div>
       <h1>about</h1>
@@ -12,4 +12,4 @@ function about() {
   )
 }
 
-export default about
+export default About
